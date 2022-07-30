@@ -2,8 +2,9 @@
 
 **My Stack:**
 - Typescript 
-- Node.JS
-- React.JS
+  - Node.JS
+    - React.JS
 - Rust
 - Redis
 - MongoDB
+- SQL
